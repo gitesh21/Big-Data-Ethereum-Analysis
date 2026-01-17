@@ -1,5 +1,4 @@
 # Big-Data-Ethereum-Analysis
-# -MLEnd-London-Sound-Project
 A coursework on Ethereum Analysis, as a part of curriculum at Queen Mary University of London.
 
 Analysis of Ethereum Transactions and Smart Contracts using Apache Spark
